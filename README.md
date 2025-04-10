@@ -7,7 +7,7 @@ It’s a simple game where you get to guess words from jumbled letters — but w
 
 Whether you’re learning English, sharpening your brain, or just wasting time like me — this game is for you!
 
-**Features**
+# **Features**
 
 **Endless rounds:** Keep going until you hit that stop button (or until your fingers give up).
 
@@ -17,7 +17,7 @@ Whether you’re learning English, sharpening your brain, or just wasting time l
 
 **Stop button:** Because sometimes, you need to stop and breathe. 🛑
 
-**How to Play**
+# **How to Play**
 The game shows you a jumbled word.
 
 You type in your guess.
@@ -28,7 +28,7 @@ If you get it wrong, it gives you a hint and allows you to keep trying. (We’re
 
 When you’re done, just hit the stop button and enjoy your free time again.
 
-**Built With**
+# **Built With**
 
 HTML5
 
@@ -36,6 +36,6 @@ CSS3
 
 JavaScript (because what’s a game without it?)
 
-**Why did I make this?**
+# **Why did I make this?**
 
 Honestly, I was just free one afternoon, and I wanted to learn something new. And here we are. So if you’re wondering why I didn’t make something super fancy — well, now you know. But hey, it works, right? 
